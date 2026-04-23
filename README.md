@@ -51,10 +51,9 @@ This guide focuses on:
 
 ## Main file
 
-```bash
 pandas-per-data-analysis.md
 
-Author:
+> Author:
 Miguel Saldana
 Mechanical background → Data Analysis transition
 Focus on real-world analytics and decision intelligence
