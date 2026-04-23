@@ -4,27 +4,26 @@ Practical guide to using Pandas for real-world data analysis, focused on railway
 
 ---
 
-## What you'll find
+## Overview
 
-This project is not a generic tutorial.  
-It’s a structured, hands-on guide that shows how Pandas is actually used in real scenarios.
+This project is a structured, hands-on guide that shows how Pandas is used in real operational contexts.
 
-Inside the guide:
+It covers the full analytical workflow:
 
 - Data exploration and validation  
-- Cleaning messy real-world datasets  
-- Transforming data into useful features  
+- Cleaning messy datasets  
+- Data transformation and feature creation  
 - Building KPIs with GroupBy  
 - Merging multiple data sources  
 - Time series analysis  
-- Visualizing insights  
+- Data visualization  
 - End-to-end case studies  
 
 ---
 
-## Real-world focus
+## Real-world context
 
-All examples are based on operational contexts such as:
+This guide is written in **Italian** and is based on real-world scenarios such as:
 
 - railway delay analysis  
 - urban mobility performance  
@@ -45,7 +44,7 @@ This guide focuses on:
 - thinking like a Data Analyst  
 - working with imperfect data  
 - extracting meaningful insights  
-- solving real problems  
+- solving real operational problems  
 
 ---
 
@@ -54,6 +53,7 @@ This guide focuses on:
 pandas-per-data-analysis.md
 
 > Author:
-Miguel Saldana
-Mechanical background → Data Analysis transition
-Focus on real-world analytics and decision intelligence
+Miguel Saldana [Data Analyst]
+Based in Milano
+Background in railway operations (ATM – Azienda Trasporti Milanesi)
+This guide was created to bridge real operational experience with data analysis using Pandas.
